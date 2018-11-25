@@ -2,8 +2,8 @@
 
 ## 免费SS账号
 
-* [https://io.freess.org/](https://io.freess.org/)
 * [https://free-ss.site](https://free-ss.site)
+* [https://io.freess.org/](https://io.freess.org/)
 
 ## 科学上网检测IP地址访问
 
